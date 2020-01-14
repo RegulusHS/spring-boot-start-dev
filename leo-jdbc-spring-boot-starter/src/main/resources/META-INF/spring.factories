@@ -1,0 +1,2 @@
+# 告诉springboot程序，加载我这个包的时候，自动加载这个类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.leo.jdbc.JdbcConfiguration
